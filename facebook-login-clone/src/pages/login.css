@@ -1,0 +1,29 @@
+.paragraph{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 45vw;
+    flex-direction: column;
+    width: 50%;
+}
+
+#para{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    width: auto;
+}
+
+.container{
+    display: flex;
+}
+
+.login-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 45vw;
+    flex-direction: column;
+    width: 50%;
+}
